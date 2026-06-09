@@ -6,13 +6,8 @@ Concepts Implemented
 3. Code Refactoring The code is divided into small focused methods like validateName(), validateGrades(), calcAverage(), and getLetterGrade() so no code is repeated.
 4. Unit Testing Six test cases run automatically when the program starts. Results are printed in the console showing PASS or FAIL for each test.
 5. Git & GitHub The project is maintained using Git with meaningful commit messages and pushed to a GitHub repository for version control.
-6. GUI:
 <img width="416" height="354" alt="image" src="https://github.com/user-attachments/assets/bfe42437-f267-41f1-b11b-c8dccf2aec0b" />
-
-numbers in name field:
 <img width="416" height="351" alt="image" src="https://github.com/user-attachments/assets/93919d9f-be63-4f37-a3d5-4e7105d8b44c" />
-
-string in grades field:
 <img width="415" height="355" alt="image" src="https://github.com/user-attachments/assets/7a0ce413-2464-45d6-b220-ed15ed2ca67a" />
 <img width="416" height="353" alt="image" src="https://github.com/user-attachments/assets/c873f476-2093-4c29-91e5-5777c1b9ddea" />
 <img width="415" height="351" alt="image" src="https://github.com/user-attachments/assets/ae6d81b2-89e5-44c2-a51f-135dff32868b" />
